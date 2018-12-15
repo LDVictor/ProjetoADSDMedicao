@@ -1,5 +1,5 @@
 # ProjetoADSDMedicao
-Projeto da disciplina Avaliação de Desempenho de Sistemas Discretos referente à medição de softwares de transcodificação de vídeos no software ffmpeg.
+Projeto da disciplina Avaliação de Desempenho de Sistemas Discretos referente à medição do software de transcodificação de vídeo ffmpeg através do Valgrind.
 
 - [Relatório da medição](https://github.com/LDVictor/ProjetoADSDMedicao/blob/master/Relat%C3%B3rio/ADSD%20-%20Relat%C3%B3rio%20de%20Medi%C3%A7%C3%A3o.pdf)
 
